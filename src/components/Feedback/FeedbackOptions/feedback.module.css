@@ -1,0 +1,14 @@
+.button{
+    width: 100px;
+    height: 50px;
+    margin-right: 10px;
+    color: aquamarine;
+    background-color: rgb(125, 103, 103);
+    border: 0;
+    border-radius: 5%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
